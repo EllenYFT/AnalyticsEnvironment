@@ -4,3 +4,8 @@ channels:
 dependencies:
   -r-base=3.5.0	
   -rstudio
+<<<<<<< HEAD
+  -r-rpart
+=======
+  -r-data.table
+>>>>>>> task1_explore_A
