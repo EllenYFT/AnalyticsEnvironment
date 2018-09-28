@@ -2,6 +2,7 @@ AnalyticsEnvironment
 ==============================
 
 Test analytics environment
+Input for workshop
 
 Project Organization
 ------------
